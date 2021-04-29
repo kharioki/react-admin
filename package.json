@@ -1,0 +1,28 @@
+{
+  "name": "react-admin",
+  "version": "1.0.0",
+  "description": "admin interface with react admin, rest api and json server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharioki/react-admin.git"
+  },
+  "keywords": [
+    "react",
+    "admin",
+    "fake",
+    "rest",
+    "api",
+    "json",
+    "server"
+  ],
+  "author": "kharioki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kharioki/react-admin/issues"
+  },
+  "homepage": "https://github.com/kharioki/react-admin#readme"
+}
