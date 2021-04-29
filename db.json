@@ -3,8 +3,8 @@
     {
       "id": "1",
       "title": "Post One",
-      "body": "This is the post body",
-      "publishedAt": "10-01-2021"
+      "body": "This is the body of post one",
+      "publishedAt": "2021-10-01"
     },
     {
       "id": "2",
